@@ -8,7 +8,7 @@
 
     <title>Employee Management System</title>
 
-    <link rel="stylesheet" href="/employee-management/assets/css/style.css">
+    <link rel="stylesheet" href="/my_test_aws/employee-management/assets/css/style.css">
 </head>
 
 <body>
