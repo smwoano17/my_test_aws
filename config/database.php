@@ -3,10 +3,10 @@
 
 class Database
 {
-    private $host = "employees-management.cxgg64820tc9.ap-southeast-2.rds.amazonaws.com";
+    private $host = "localhost";
     private $dbname = "employee_management";
-    private $username = "admin";
-    private $password = "lmamvypkw1av";
+    private $username = "root";
+    private $password = "";
 
     public $conn;
 
